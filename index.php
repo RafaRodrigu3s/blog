@@ -26,9 +26,9 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li class="active"><a href="index.php">Home</a></li>
+            <li><a href="about.php">Sobre</a></li>
+            <li><a href="contact.php">Contato</a></li>
           </ul>
           <!--icon-->
           <ul class="nav navbar-nav navbar-right">
@@ -43,9 +43,10 @@
 
    <div class="showcase">
      <div class="container">
-       <h1>Ideia</h1>
-       <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam imperdiet nec nisl at tempor. Praesent euismod nisi ut purus interdum, quis aliquam risus blandit. Phasellus sed elit sed ante facilisis ultricies. Pellentesque vel neque eget magna rutrum faucibus. Ut vel auctor tellus. Nam vel dui et ipsum accumsan congue eu at tortor. Donec semper quam et mi semper, non mattis mi viverra. Nulla ultrices quam volutpat, facilisis dui at, fringilla neque. Vivamus hendrerit tristique magna vitae aliquet.</p>
-       <a href="about.html" class="btn btn-primary">Read More</a>
+       <h1>Desenvolvedores</h1>
+       <p class="lead">Esta página se dedica a todos que querem iniciar no desenvolvimento de jogos,
+         mas não sabem como. Ela se propunhará a falar sobre as linguagens, animações e outras duvidas...</p>
+       <a href="about.html" class="btn btn-primary">Leia Mais</a>
      </div>
    </div>
 
@@ -53,18 +54,18 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <i class="fa fa-html5"></i>
-            <h3>Clen & Simple Code</h3>
+            <i class="fa fa-gamepad"></i>
+            <h3>Desenvolvimento Unity</h3>
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam imperdiet nec nisl at tempor. Praesent euismod nisi ut purus interdum, quis aliquam risus blandit. Phasellus sed elit sed ante facilisis ultricies. Pellentesque vel neque eget magna rutrum faucibus. Ut vel auctor tellus. Nam vel dui et ipsum accumsan congue eu at tortor. Donec semper quam et mi semper, non mattis mi viverra. Nulla ultrices quam volutpat, facilisis dui at, fringilla neque. Vivamus hendrerit tristique magna vitae aliquet.</p>
             </div>
             <div class="col-md-4">
-              <i class="fa fa-gear"></i>
-              <h3>Sass PreCompiler</h3>
+              <i class="fa fa-android"></i>
+              <h3>Desenvolvimento Android</h3>
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam imperdiet nec nisl at tempor. Praesent euismod nisi ut purus interdum, quis aliquam risus blandit. Phasellus sed elit sed ante facilisis ultricies. Pellentesque vel neque eget magna rutrum faucibus. Ut vel auctor tellus. Nam vel dui et ipsum accumsan congue eu at tortor. Donec semper quam et mi semper, non mattis mi viverra. Nulla ultrices quam volutpat, facilisis dui at, fringilla neque. Vivamus hendrerit tristique magna vitae aliquet.</p>
             </div>
             <div class="col-md-4">
-              <i class="fa fa-lightbulb-o"></i>
-              <h3>Customizeble</h3>
+              <i class="fa fa-steam"></i>
+              <h3>Jogos Criados</h3>
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam imperdiet nec nisl at tempor. Praesent euismod nisi ut purus interdum, quis aliquam risus blandit. Phasellus sed elit sed ante facilisis ultricies. Pellentesque vel neque eget magna rutrum faucibus. Ut vel auctor tellus. Nam vel dui et ipsum accumsan congue eu at tortor. Donec semper quam et mi semper, non mattis mi viverra. Nulla ultrices quam volutpat, facilisis dui at, fringilla neque. Vivamus hendrerit tristique magna vitae aliquet.</p>
             </div>
           </div>
@@ -80,13 +81,18 @@
                   <div class="panel-heading" role="tab" id="headingOne">
                     <h4 class="panel-title">
                       <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Collapsible Group Item #1
+                      Programação
                       </a>
                     </h4>
                   </div>
                   <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                     <div class="panel-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
+                       3 wolf moon officia aute, non cupidatat  skateboard dolor brunch. Food truck quinoa nesciunt laborum
+                        eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla
+                        assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+                        sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table,
+                         raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
                     </div>
                   </div>
                 </div>
@@ -94,7 +100,7 @@
                   <div class="panel-heading" role="tab" id="headingTwo">
                     <h4 class="panel-title">
                       <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Collapsible Group Item #2
+                        Modelagem
                       </a>
                     </h4>
                   </div>
@@ -108,7 +114,7 @@
                   <div class="panel-heading" role="tab" id="headingThree">
                     <h4 class="panel-title">
                       <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        Collapsible Group Item #3
+                      Game Design
                       </a>
                     </h4>
                   </div>
@@ -133,14 +139,14 @@
             <div class="row">
               <div class="col-md-8 col-md-offfset-2">
                 <i class="fa fa-html5"></i>
-                <h2>SubScrib To Our Newsletter</h2>
+                <h2>Subscreva na nossa pagina</h2>
                 <br>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam imperdiet nec nisl at tempor. Praesent euismod nisi ut purus interdum, quis aliquam risus blandit. Phasellus sed elit sed ante facilisis ultricies. Pellentesque vel neque eget magna rutrum faucibus. Ut vel auctor tellus. Nam vel dui et ipsum accumsan congue eu at tortor. Donec semper quam et mi semper, non mattis mi viverra. Nulla ultrices quam volutpat, facilisis dui at, fringilla neque. Vivamus hendrerit tristique magna vitae aliquet.</p>
                 <hr/>
                 <form >
-                  <input type="text" class="form-control input-lg"  placeholder="Enter Email">
+                  <input type="text" class="form-control input-lg"  placeholder="Email">
                   <br/>
-                  <button class="btn btn-primary btn-lg btn-block">Submit</button>
+                  <button class="btn btn-primary btn-lg btn-block">Enviar</button>
                 </form>
                 </div>
               </div>

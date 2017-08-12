@@ -8140,7 +8140,8 @@ button.close {
 .showcase {
   background: url(../img/01.jpg) no-repeat 0 -100px;
   height: 600px;
-  padding: 30px 0; }
+  padding: 30px 0;
+  width: 100px 0; }
   .showcase h1 {
     font-size: 60px; }
   .showcase .container {
@@ -8173,6 +8174,14 @@ button.close {
   color: #ffffff; }
   .section-c .btn-primary {
     background: #13646b; }
+
+.tooltip-bar {
+  background: url(../img/01.jpg) no-repeat 0 -300px;
+  padding-bottom: 10px;
+  border-bottom: 4px solid #1a8c97; }
+
+.main {
+  margin-top: 30px; }
 
 footer {
   padding: 30px 0;
